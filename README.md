@@ -39,8 +39,9 @@
 📆 *2021 – 2025*
 
 **+2 in Physics (3.75/4 GPA)**  
-📍 *Tri-Padma Vidhyashram Secondary School, Pulchowk, Lalitpur*
+📍 *Tri-Padma Vidhyashram Secondary School, Pulchowk, Lalitpur*  
 📆 *2018 – 2020*
+
 
 ---
 
