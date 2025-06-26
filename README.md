@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a Computer Engineering student, currently awaiting final results from **Kathmandu Engineering College**.  
+🎓 I'm a Computer Engineering graduate from **Kathmandu Engineering College**.  
 🎨 I love **UI/UX design** and bring ideas to life through clean, intuitive interfaces.  
 🌐 I enjoy **web** and **mobile app development**, and I'm passionate about solving real-world problems.  
 🤝 Always open to collaboration, learning, and building impactful tech.
