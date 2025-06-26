@@ -2,7 +2,7 @@
 <h3 align="center"> Aspiring Computer Engineer |  Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Game+Development+Enthusiast+%7C+%F0%9F%92%BB+Software+Developer;Frontend+%7C+Backend+%7C+DB+%7C+ML+Explorer;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Computer+Engineer+%7C+%F0%9F%92%BB+Tech Enthusiast;Flutter Developer+%7C+Web Developer+%7C+DB+%7C+UI/UX+Designer;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### 📱 App Development
 - Dart & Flutter
 - Firebase
-- Git & GitHub
+- Git & GitHub for version control
 
 ---
 
@@ -42,7 +42,7 @@
 📍 *Tri-Padma Vidhyashram Secondary School, Pulchowk, Lalitpur*
 📆 *2018 – 2020*
 
-
+---
 
 ## 📫 Connect With Me
 
