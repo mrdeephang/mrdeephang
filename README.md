@@ -6,10 +6,6 @@
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
-## 🛠️ Languages and Tools
-
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
