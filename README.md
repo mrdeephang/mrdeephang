@@ -47,16 +47,13 @@
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://deephangthegim.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/deephangthegim" target="_blank">
+  <a href="https://www.linkedin.com/in/deephang-thegim-b858ab314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:deephang@example.com" target="_blank">
+  <a href="thoklihang.deep@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
