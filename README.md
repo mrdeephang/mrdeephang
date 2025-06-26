@@ -36,27 +36,19 @@
 
 **Bachelor’s in Computer Engineering**  
 📍 *Kathmandu Engineering College, Kalimati, Kathmandu*  
-📆 *2019 – 2024*
+📆 *2021 – 2025*
 
 **+2 in Physics (3.75/4 GPA)**  
 📍 *Tri-Padma Vidhyashram Secondary School, Pulchowk, Lalitpur*
+📆 *2018 – 2020*
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deephangthegim&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deephangthegim&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
-- 📬 [Email](mailto:deephang@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/deephangthegim)
-- 🐙 [GitHub](https://github.com/deephangthegim)
+- 📬 [Email](mailto:thoklihang.deep@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/deephangthegim](https://www.linkedin.com/in/deephang-thegim-b858ab314/))
+- 🐙 [Potrfolio]([https://github.com/deephangthegim](https://deephangthegim.com.np/))
 
 ---
 
