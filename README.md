@@ -1,8 +1,7 @@
 <h1 align="center">Hi , I'm Deephang Thegim</h1>
-<h3 align="center"> Aspiring Computer Engineer |  Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Computer+Engineer+%7C+%F0%9F%92%BB+Tech Enthusiast;Flutter Developer+%7C+Web Developer+%7C+DB+%7C+UI/UX+Designer;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Computer+Engineer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
