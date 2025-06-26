@@ -3,6 +3,8 @@
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeephang&layout=compact&theme=radical&hide_border=true&hide=html,css,shell" />
+
 
 <h2>🌐 Connect With Me</h2>
 
