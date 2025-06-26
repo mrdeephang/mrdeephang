@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deephang Thegim</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎯 Problem Solver | 💡 Lifelong Learner</h3>
+<h1 align="center">Hi , I'm Deephang Thegim</h1>
+<h3 align="center"> Aspiring Computer Engineer |  Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Game+Development+Enthusiast+%7C+%F0%9F%92%BB+Software+Developer;Frontend+%7C+Backend+%7C+DB+%7C+ML+Explorer;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -7,33 +7,43 @@
 
 ---
 
-## 💼 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Final Year **Computer Engineering** student
-- 💻 Building responsive & dynamic **Web Applications** using `React.js`, `Node.js`, `Express.js`, and `MySQL`
-- 📱 Developed apps with `Flutter`, and web tools using `Django`, `SVM`, and `CNN`
-- 🧠 Exploring `Machine Learning`, `Data Science`, and scalable backend systems
-- ☕ I code, lift, design, and manage a cafe in a gym 🧋🏋️
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Frontend
-`HTML` `CSS` `JavaScript` `React.js` `Tailwind`
-
-### 🔧 Backend
-`Node.js` `Express.js` `MySQL` `Firebase`
-
-### 🤖 Machine Learning
-`Python` `scikit-learn` `OpenCV` `CNN` `SVM`
-
-### 🛠️ Tools
-`Git` `Postman` `Figma` `VS Code` `XAMPP`
+🎓 I'm a Computer Engineering student, currently awaiting final results from **Kathmandu Engineering College**.  
+🎨 I love **UI/UX design** and bring ideas to life through clean, intuitive interfaces.  
+🌐 I enjoy **web** and **mobile app development**, and I'm passionate about solving real-world problems.  
+🤝 Always open to collaboration, learning, and building impactful tech.
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Skills
+
+### 💡 UI/UX Design
+- Figma
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript, SQL, Bootstrap
+- Git & GitHub for version control
+
+### 📱 App Development
+- Dart & Flutter
+- Firebase
+- Git & GitHub
+
+---
+
+## 🎓 Education
+
+**Bachelor’s in Computer Engineering**  
+📍 *Kathmandu Engineering College, Kalimati, Kathmandu*  
+📆 *2019 – 2024*
+
+**+2 in Physics (3.75/4 GPA)**  
+📍 *Tri-Padma Vidhyashram Secondary School, Pulchowk, Lalitpur*
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deephangthegim&show_icons=true&theme=tokyonight" width="48%" />
@@ -42,11 +52,10 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-- 🌐 [Portfolio](https://yourwebsite.com) *(Coming Soon)*  
-- 📬 [Email](mailto:deephang@example.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/deephangthegim)  
+- 📬 [Email](mailto:deephang@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deephangthegim)
 - 🐙 [GitHub](https://github.com/deephangthegim)
 
 ---
