@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Deephang Thegim</h1>
+<h1 align="center">Hi , I'm Deephang Thegim.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+Computer+Engineer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
@@ -44,14 +44,19 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 📬 [Email](mailto:thoklihang.deep@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/deephangthegim](https://www.linkedin.com/in/deephang-thegim-b858ab314/))
-- 🐙 [Potrfolio]([https://github.com/deephangthegim](https://deephangthegim.com.np/))
-
----
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deephangthegim&theme=radical&margin-w=10&margin-h=15" />
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/deephangthegim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:deephang@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
