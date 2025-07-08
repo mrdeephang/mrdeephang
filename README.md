@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p> 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepHang&layout=compact)s
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr.deephang&layout=compact)
 
 --- 
 
