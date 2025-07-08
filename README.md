@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepHang&layout=compact)
 
 ---
 
@@ -44,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p> 
 
-[![Metrics](https://metrics.lecoq.io/YOUR_USERNAME)](https://github.com/lowlighter/metrics)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepHang&layout=compact)s
 
 --- 
 
