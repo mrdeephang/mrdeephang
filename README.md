@@ -44,6 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p> 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)s
+
 --- 
 
 <h2>🌐 Connect With Me</h2>
