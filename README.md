@@ -43,7 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-
 --- 
 
 <h2>🌐 Connect With Me</h2>
@@ -58,5 +57,4 @@
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thoklihang.deep@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
 </p>
