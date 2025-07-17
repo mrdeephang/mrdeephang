@@ -45,7 +45,7 @@
 
 --- 
 
-<h2>🌐 Connect </h2>
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://deephangthegim.com.np/" target="_blank">
