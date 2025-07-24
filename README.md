@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-<!--
 ---
 
 ## 📊 GitHub Analytics
@@ -43,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdeephang&theme=blue-green" alt="GitHub Streak Stats" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p> -->
