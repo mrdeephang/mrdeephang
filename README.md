@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00abf0&center=true&vCenter=true&width=1000&lines=Aspiring+Computer+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
+
 ---
+
 
 ## 🛠️ Technologies & Tools
 
 <!-- Mobile Development -->
 <p align="left">
-  <strong>Mobile Development</strong><br />
+  <strong>Mobile Development</strong><br /><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
