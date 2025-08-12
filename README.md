@@ -112,9 +112,10 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p> -->
 
-
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=10)
 
+<!-- 
 ## 📊 GitHub Analytics
 
 <p align="center">
