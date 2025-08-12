@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00abf0&center=true&vCenter=true&width=1000&lines=COMPUTER+ENGINEER" alt="Typing SVG" />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0A2342&center=true&vCenter=true&width=1000&lines=COMPUTER+ENGINEER" alt="Typing SVG" />
+</p> 
 
 ---
-
 
 ## 🛠️ Technologies & Tools
 
