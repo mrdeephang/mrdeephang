@@ -113,9 +113,10 @@
 </p> -->
 
 ---
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeephang&layout=compact&langs_count=10&include_forks=true)
 true)
-
+--> 
 
 <!-- 
 ## 📊 GitHub Analytics
