@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0E1?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+<!--   <img src="https://img.shields.io/badge/Cisco-1BA0E1?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> -->
 </p>
 
 <!-- CMS -->
@@ -69,7 +69,7 @@
 
 <!-- UI/UX, Graphic, Video & Animation -->
 <p align="left">
-  <strong>UI/UX, GRAPHIC, VIDEO & ANIMATION</strong><br />
+  <strong>UI/UX, GRAPHIC & VIDEO</strong><br />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere&logoColor=white" alt="Adobe Premiere Pro" />
