@@ -120,8 +120,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdeephang&theme=blue-green" alt="GitHub Streak Stats" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeephang&layout=compact&langs_count=10&include_forks=true&hide=python,cython,c,cpp,css,html)
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeephang&layout=compact&langs_count=10&include_forks=true&hide=python,cython,c,cpp,css,html)-->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats" />
