@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Provider-1E88E5?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
-<!--   <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" /> -->
-
+  <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" />
 </p>
 
 <!-- Frontend -->
@@ -106,12 +105,14 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="MS PowerPoint" />
 </p>
 -->
+
 <!-- Project Management --> 
-<!--
 <p align="left">
   <strong>PROJECT MANAGEMENT</strong><br />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p> -->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
 
 ---
 <!--
