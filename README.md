@@ -81,7 +81,7 @@
 
 <!-- Game Development -->
 <p align="left">
-  <strong>Game Development</strong><br />
+  <strong>GAME DEVELOPMENT</strong><br />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
     <img src="https://img.shields.io/badge/Flame-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flame" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++" />
