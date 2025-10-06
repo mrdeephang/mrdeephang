@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <!-- <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> -->
   
 </p>
 
