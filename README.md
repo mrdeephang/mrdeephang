@@ -113,7 +113,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>   -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeephang&layout=compact&langs_count=6&hide=Jupyter%20Notebook,cython,c,css,html,CMake,Swift,Kotlin,Objective-C,Makefile,Linker%20Script,Assembly&theme=dark&bg_color=0d1117&title_color=00abf0&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeephang&layout=compact&langs_count=6&hide=Jupyter%20Notebook,c,css,html,CMake,Swift,Kotlin,Objective-C,Makefile,Linker%20Script,Assembly&theme=dark&bg_color=0d1117&title_color=00abf0&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
