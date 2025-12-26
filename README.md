@@ -102,9 +102,10 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
+<!-- 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdeephang&theme=blue-green" alt="GitHub Streak Stats" />
