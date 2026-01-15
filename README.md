@@ -104,14 +104,14 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
-
+<!--
 ---
-
-## 📊 GitHub Analytics 
-
+<!--
+## 📊 GitHub Analytics -->
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdeephang&theme=blue-green" alt="GitHub Streak Stats" />
-</p> 
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrdeephang&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>   -->
